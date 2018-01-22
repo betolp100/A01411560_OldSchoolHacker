@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 8f76b6d6fc44b1548b49e85927755dc0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bathroom w
+    100002: Bled
+    100004: Bled001
+    100006: Bled002
+    100008: Bled003
+    100010: Bled004
+    100012: Bled005
+    100014: Box003
+    100016: Box004
+    100018: Box005
+    100020: Box006
+    100022: Box007
+    100024: Box008
+    100026: Box009
+    100028: Box010
+    100030: Box011
+    100032: Box012
+    100034: Box013
+    100036: Box014
+    100038: Box015
+    100040: Box016
+    100042: Box017
+    100044: Box018
+    100046: Box019
+    100048: Box020
+    100050: Box021
+    100052: Box022
+    100054: Box023
+    100056: Box024
+    100058: Box025
+    100060: Box026
+    100062: Box027
+    100064: Box028
+    100066: Cylinder00
+    100068: Cylinder01
+    100070: Cylinder02
+    100072: Exhaust fa
+    100074: fan back
+    100076: Fream
+    100078: Fream01
+    100080: glass
+    100082: Particle V
+    100084: Rectangle0
+    100086: Rectangle1
+    100088: Rectangle2
+    100090: Rectangle3
+    100092: Rectangle4
+    100094: Window
+    100096: //RootNode
+    400000: Bathroom w
+    400002: Bled
+    400004: Bled001
+    400006: Bled002
+    400008: Bled003
+    400010: Bled004
+    400012: Bled005
+    400014: Box003
+    400016: Box004
+    400018: Box005
+    400020: Box006
+    400022: Box007
+    400024: Box008
+    400026: Box009
+    400028: Box010
+    400030: Box011
+    400032: Box012
+    400034: Box013
+    400036: Box014
+    400038: Box015
+    400040: Box016
+    400042: Box017
+    400044: Box018
+    400046: Box019
+    400048: Box020
+    400050: Box021
+    400052: Box022
+    400054: Box023
+    400056: Box024
+    400058: Box025
+    400060: Box026
+    400062: Box027
+    400064: Box028
+    400066: Cylinder00
+    400068: Cylinder01
+    400070: Cylinder02
+    400072: Exhaust fa
+    400074: fan back
+    400076: Fream
+    400078: Fream01
+    400080: glass
+    400082: Particle V
+    400084: Rectangle0
+    400086: Rectangle1
+    400088: Rectangle2
+    400090: Rectangle3
+    400092: Rectangle4
+    400094: Window
+    400096: //RootNode
+    2100000: 'Material #59'
+    2100002: 'Material #60'
+    2100004: 'Material #61'
+    2100006: 'Material #62'
+    2100008: 'Material #63'
+    2100010: 'Material #64'
+    2300000: Bled
+    2300002: Bled001
+    2300004: Bled002
+    2300006: Bled003
+    2300008: Bled004
+    2300010: Bled005
+    2300012: Box003
+    2300014: Box004
+    2300016: Box005
+    2300018: Box006
+    2300020: Box007
+    2300022: Box008
+    2300024: Box009
+    2300026: Box010
+    2300028: Box011
+    2300030: Box012
+    2300032: Box013
+    2300034: Box014
+    2300036: Box015
+    2300038: Box016
+    2300040: Box017
+    2300042: Box018
+    2300044: Box019
+    2300046: Box020
+    2300048: Box021
+    2300050: Box022
+    2300052: Box023
+    2300054: Box024
+    2300056: Box025
+    2300058: Box026
+    2300060: Box027
+    2300062: Box028
+    2300064: Cylinder00
+    2300066: Cylinder01
+    2300068: Cylinder02
+    2300070: fan back
+    2300072: Fream
+    2300074: Fream01
+    2300076: glass
+    2300078: Rectangle0
+    2300080: Rectangle1
+    2300082: Rectangle2
+    2300084: Rectangle3
+    2300086: Rectangle4
+    3300000: Bled
+    3300002: Bled001
+    3300004: Bled002
+    3300006: Bled003
+    3300008: Bled004
+    3300010: Bled005
+    3300012: Box003
+    3300014: Box004
+    3300016: Box005
+    3300018: Box006
+    3300020: Box007
+    3300022: Box008
+    3300024: Box009
+    3300026: Box010
+    3300028: Box011
+    3300030: Box012
+    3300032: Box013
+    3300034: Box014
+    3300036: Box015
+    3300038: Box016
+    3300040: Box017
+    3300042: Box018
+    3300044: Box019
+    3300046: Box020
+    3300048: Box021
+    3300050: Box022
+    3300052: Box023
+    3300054: Box024
+    3300056: Box025
+    3300058: Box026
+    3300060: Box027
+    3300062: Box028
+    3300064: Cylinder00
+    3300066: Cylinder01
+    3300068: Cylinder02
+    3300070: fan back
+    3300072: Fream
+    3300074: Fream01
+    3300076: glass
+    3300078: Rectangle0
+    3300080: Rectangle1
+    3300082: Rectangle2
+    3300084: Rectangle3
+    3300086: Rectangle4
+    4300000: Cylinder00
+    4300002: Cylinder01
+    4300004: Bled005
+    4300006: Bled004
+    4300008: Bled003
+    4300010: Bled002
+    4300012: Bled001
+    4300014: Bled
+    4300016: Cylinder02
+    4300018: fan back
+    4300020: Box003
+    4300022: Box004
+    4300024: Fream
+    4300026: Fream01
+    4300028: Box007
+    4300030: Box005
+    4300032: Box006
+    4300034: Box010
+    4300036: Box009
+    4300038: Box008
+    4300040: Box013
+    4300042: Box012
+    4300044: Box011
+    4300046: Box016
+    4300048: Box015
+    4300050: Box014
+    4300052: Box019
+    4300054: Box018
+    4300056: Box017
+    4300058: Box022
+    4300060: Box021
+    4300062: Box020
+    4300064: Box025
+    4300066: Box024
+    4300068: Box023
+    4300070: Box028
+    4300072: Box027
+    4300074: Box026
+    4300076: Rectangle0
+    4300078: Rectangle1
+    4300080: Rectangle2
+    4300082: Rectangle4
+    4300084: glass
+    4300086: Rectangle3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
